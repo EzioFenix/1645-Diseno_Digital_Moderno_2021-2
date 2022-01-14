@@ -16,7 +16,7 @@ Este es un repositorio para juntar todo el material propio de actividades realiz
 
 - Es valido leer mi documentación pero no copiarla, sólo es una guía, ya que al cursarla tuvé dudas.
 
-# ¿Qué incluye el material
+# ¿Qué incluye el material?
 
 - 8 Proyectos realizados (PDF + .VHDL en algunos)
 - 45 Tareas
