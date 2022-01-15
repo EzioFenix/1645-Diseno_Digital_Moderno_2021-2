@@ -2,12 +2,12 @@
 {
     'nombre': 'Barrera Peña  Víctor Miguel',
     'tipo': 'Tarea',
-    'no': '',
+    'no': '43',
     'grupo':  '6',
     'materia': '1645 Diseño Digital Moderno',
     'semestre': '2022-1',
-    'enunciado': 'Realizar una  investigación ,
-    'fecha': '-09-2021'
+    'enunciado': 'metodo de wallace tree para multiplicar' ,
+    'fecha': '23-10-221'
 }
 ```
 
