@@ -75,14 +75,61 @@ y es para no hacer directo
 
 ## Piezas necesarias
 
+#### Modo 1
+
+opto acoplador y un triac
+
+optriac y un triac
+
+- Familia moc es upto triac
+- El de la familia til es un optoacoplador
+- Funcioa mejor con
+- tic es un triac
+- Moc + triac para la potencia
+
+#### Modo 2
+
 - Optoacloplador
-  - optoTrial Til111
+  - optoTrial Til111  ( optriac 1 amprs)
 - Triac
-  - Triac (Tic 106)
+  - Triac (Tic 106)  (6 amprs)
 - Decodificador 2x4
 - 4x Focos
+
+#### El del video
+
+- Moc  (1 amper octo triac)
+- Triacs
+
+# Ejemplo un trabajo
+
+![image-20220117194129581](img/image-20220117194129581.png)
+
+![image-20220117194142294](img/image-20220117194142294.png)
+
+![image-20220117194152786](img/image-20220117194152786.png)
+
+opto triac
+
+![image-20220117194247678](img/image-20220117194247678.png)
+
+![image-20220117194257814](img/image-20220117194257814.png)
+
+![image-20220117194327978](img/image-20220117194327978.png)
+
+![image-20220117194336681](img/image-20220117194336681.png)
+
+![image-20220117194354603](img/image-20220117194354603.png)
+
+![image-20220117194419100](img/image-20220117194419100.png)
+
+Conclusion y referencias
+
+![image-20220117194457840](img/image-20220117194457840.png)
 
 # Referencias
 
 - Diapositivas DDM, Roberto Mandujano, Páginas 428-432, edición 2022-1.
+- Ver más A9 2:41:00
 
+ 
